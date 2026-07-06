@@ -2,52 +2,32 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-06T13:05:47Z"
+   "last_success": "2026-07-06T13:21:48Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-06T13:05:47Z"
+   "last_success": "2026-07-06T13:21:48Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-06T13:05:47Z"
+   "last_success": "2026-07-06T13:21:48Z"
   }
  },
  "stores": {
   "amazon_au": {
-   "B0FH6KRSX8": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": null,
-    "last_alert": 0,
-    "price": 264.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Mega Evolutions 1 Elite Trainer Box",
-    "url": "https://www.amazon.com.au/dp/B0FH6KRSX8"
-   },
-   "B0GFZV1ZVV": {
+   "B0GR6M4JV3": {
     "available": false,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": null,
     "last_alert": 0,
-    "price": 159.99,
+    "price": 779.0,
     "status": "Out of stock",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Elite Trainer Box",
-    "url": "https://www.amazon.com.au/dp/B0GFZV1ZVV"
-   },
-   "B0GNCGT9KK": {
-    "available": false,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": null,
-    "last_alert": 0,
-    "price": 60.0,
-    "status": "Out of stock",
-    "title": "Pokemon Mega Zygarde ex Premium Collection",
-    "url": "https://www.amazon.com.au/dp/B0GNCGT9KK"
+    "title": "Pokemon TCG Mega Evolutions 4 Three Packs",
+    "url": "https://www.amazon.com.au/dp/B0GR6M4JV3"
    },
    "B0GR6N18F6": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": null,
     "last_alert": 0,
     "price": 159.99,
@@ -57,7 +37,7 @@
    },
    "B0GYVHLP4L": {
     "available": false,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": null,
     "last_alert": 0,
     "price": 159.99,
@@ -67,301 +47,51 @@
    }
   },
   "jbhifi": {
-   "pokemon-eevee-heroes-booster-box-japanese": {
+   "pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/3da1de68974e4ce4a88bcd505dcdafd1.jpg?v=1779426027",
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880684-Product-0-I-639095570402673209.jpg?v=1773960306",
     "last_alert": 0,
-    "price": 2208.84,
+    "price": 11.0,
     "status": "In stock",
-    "title": "Pokemon Eevee Heroes Booster Box Japanese",
-    "url": "https://www.jbhifi.com.au/products/pokemon-eevee-heroes-booster-box-japanese"
+    "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Checklane Blister",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game"
    },
-   "pokemon-tcg-inferno-x-m2-booster-box-30-packs-japanese-trading-cards": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/353a3aac3edc43e08e360a05cc2c3d46.jpg?v=1783054828",
-    "last_alert": 0,
-    "price": 329.95,
-    "status": "In stock",
-    "title": "Pokemon TCG Inferno X M2 Booster Box 30 Packs Japanese Trading Cards",
-    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-inferno-x-m2-booster-box-30-packs-japanese-trading-cards"
-   },
-   "pokemon-tcg-mega-zygarde-ex-premium-collection-card-game": {
+   "pokemon-tcg-mega-evolutions-4-chaos-rising-three-booster-blister-card-game": {
     "available": false,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880534-Product-0-I-639095567402546535.jpg?v=1773960005",
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880624-Product-0-I-639095567402050523.jpg?v=1773960004",
     "last_alert": 0,
-    "price": 80.0,
+    "price": 26.0,
     "status": "Out of stock",
-    "title": "Pokemon TCG - Mega Zygarde ex Premium Collection",
-    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-zygarde-ex-premium-collection-card-game"
+    "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Three-Booster Blister",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-three-booster-blister-card-game"
    }
   },
   "toymate": {
-   "14401": {
+   "54328": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/14401/images/292596/P11422_3D_Knock_Out_Collection_Q1_2026_Suicune_Right_EN__91180.1768518253.386.513.jpg?c=2",
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54328/images/300455/Pokemon_TCG_Chaos_Rising_Blister_1__05408.1773923815.386.513.jpg?c=2",
     "last_alert": 0,
-    "price": 22.99,
+    "price": 8.99,
     "status": "In stock",
-    "title": "Pokemon TCG Knock Out Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-knock-out-collection"
+    "title": "Pokemon TCG Chaos Rising Blister",
+    "url": "https://toymate.com.au/pokemon-tcg-chaos-rising-blister"
    },
-   "36804": {
+   "54329": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/36804/images/190874/Pokemon_TCG_Scarlet_Violet--151_Poster_Collection_-_Front_EN__50059.1687148827.386.513.jpg?c=2",
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54329/images/300448/Pokemon_TCG_Chaos_Rising_Three_Booster_Blister_1__30277.1773922512.386.513.jpg?c=2",
     "last_alert": 0,
-    "price": 39.99,
+    "price": 29.99,
     "status": "In stock",
-    "title": "Pokemon TCG Scarlet & Violet—151 Poster Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-151-poster-collection"
-   },
-   "36805": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/36805/images/190882/Pokemon_TCG_Scarlet_Violet--151_Booster_Bundle_-_Outer_Sleeve_EN__09786.1687149082.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Scarlet & Violet—151 Booster Bundle Set",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-151-booster-bundle-set"
-   },
-   "43516": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/43516/images/224695/Screenshot_2024-05-30_162009__23477.1717057224.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 49.99,
-    "status": "In stock",
-    "title": "Pokemon TCG SV Shrouded Fable Kingambit Illustration Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-sv-shrouded-fable-kingambit-illustration-collection"
-   },
-   "44443": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/44443/images/230052/Pokemon-TCG-Charizard-ex-Super-Premium-Collection_EN-1024x900__39391.1721385136.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 149.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Charizard ex Super-Premium Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-charizard-ex-super-premium-collection"
-   },
-   "46277": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/46277/images/245140/Screenshot_2024-12-20_075606__74495.1734652650.386.513.png?c=2",
-    "last_alert": 0,
-    "price": 139.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Tera Team Premium Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-tera-team-premium-collection"
-   },
-   "46522": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/46522/images/241376/Pokemon_TCG_Prismatic_Evolutions_Booster_Bundle_1__82705.1737423557.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Prismatic Evolutions Booster Bundle",
-    "url": "https://toymate.com.au/pokemon-tcg-prismatic-evolutions-booster-bundle"
-   },
-   "48339": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/48339/images/251818/Pokemon_TCG_Scarlet_Violet_8.5_Prismatic_Evolutions_Super-Premium_Collection_1__09493.1741770558.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 249.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Scarlet & Violet 8.5 Prismatic Evolutions Super-Premium Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection"
-   },
-   "48392": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/48392/images/252090/91cjdcDl4dL._AC_SL1500___21732.1742253709.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 119.0,
-    "status": "In stock",
-    "title": "Pokemon TCG: Paradox Fury Premium Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-paradox-fury-premium-collection"
-   },
-   "48528": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/48528/images/261293/P10345_100-10638_01-Picsart-AiImageEnhancer__19650.1747696923.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Booster Bundle",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-10-destined-rivals-booster-bundle"
-   },
-   "48530": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/48530/images/254306/Pokemon_TCG_Scarlet_Violet_10_Destined_Rivals_Elite_Trainer_Box_1__95827.1752705315.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 109.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Scarlet & Violet 10 Destined Rivals Elite Trainer Box",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-10-destined-rivals-elite-trainer-box"
-   },
-   "48764": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/48764/images/269069/81OhmLnqGkL._AC_SL1500___52174.1752708227.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 99.0,
-    "status": "In stock",
-    "title": "Pokemon TCG: Iono's Bellibolt Ex Premium Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-ionos-bellibolt-ex-premium-collection"
-   },
-   "48780": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/48780/images/269068/817ZQoBRA3L._AC_SL1500___75623.1752706842.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG: Scarlet & Violet – Surging Sparks Booster Bundle",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-surging-sparks-booster-bundle"
-   },
-   "49841": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/49841/images/267156/3c349cca-20c3-4905-a0e2-4b3854749b61-Picsart-AiImageEnhancer__77030.1751614579.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG: Scarlet & Violet 10.5 Unova Victini Illustration Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-scarlet-violet-10-5-unova-victini-illustration-collection"
-   },
-   "51110": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/51110/images/275396/Mega-Charizard-X-ex-Ultra-Premium-Collection_1__91164.1765938170.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 289.0,
-    "status": "In stock",
-    "title": "Pokemon TCG: Mega Charizard X ex Ultra-Premium Collection ",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection"
-   },
-   "51112": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/51112/images/275407/Pokemon_TCG_Mega_EvolutionPhantasmal_Flames_Elite_Trainer_Box_1__64257.1756956980.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 109.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Elite Trainer Box ",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-2-phantasmal-flames-elite-trainer-box"
-   },
-   "51113": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/51113/images/275417/Phantasmal_Flames_Booster_Bundle_1__75066.1756960445.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Mega Evolutions 2 Phantasmal Flames Booster Bundle",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-2-phantasmal-flames-booster-bundle"
-   },
-   "51139": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/51139/images/275651/Pokemon_TCG_Mega_Evolution_-_Booster_Bundle_EN__92635.1757052353.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG: Mega Evolution Booster Bundle",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-evolution-booster-bundle"
-   },
-   "51140": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/51140/images/275653/ME_ETB_Lucario_5__89731.1757052712.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 109.0,
-    "status": "In stock",
-    "title": "Pokemon TCG: Mega Evolution Elite Trainer Box",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-evolution-elite-trainer-box"
-   },
-   "52877": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/52877/images/290730/Pokemon_TCG_Pokemon_Day_2026_Collection_1__19978.1765772648.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 34.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Pokemon Day 2026 Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-pokemon-day-2026-collection"
-   },
-   "52880": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/52880/images/290721/Pokemon_TCG_Ascended_Heroes_Deluxe_Pin_Collection_1__20982.1765769049.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 59.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Ascended Heroes Deluxe Pin Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-ascended-heroes-deluxe-pin-collection"
-   },
-   "52881": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/52881/images/290719/Pokemon_TCG_Ascended_Heroes_Elite_Trainer_Box_1__73393.1765768429.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 109.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Ascended Heroes Elite Trainer Box",
-    "url": "https://toymate.com.au/pokemon-tcg-ascended-heroes-elite-trainer-box"
-   },
-   "52884": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/52884/images/290710/Pokemon_TCG_Ascended_Heroes_Premium_Poster_Collection_2__18123.1765766185.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 109.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Ascended Heroes Premium Poster Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-ascended-heroes-premium-poster-collection"
-   },
-   "52886": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/52886/images/290700/Pokemon_TCG_Ascended_Heroes_Booster_Bundle_1__04623.1765764491.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 69.99,
-    "status": "In stock",
-    "title": "Pokemon TCG Ascended Heroes Booster Bundle",
-    "url": "https://toymate.com.au/pokemon-tcg-ascended-heroes-booster-bundle"
-   },
-   "53200": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/53200/images/292573/Pokemon_TCG_-_Mega_Evolution--Perfect_Order_-_Elite_Trainer_Box_EN__25286.1768517470.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 109.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Mega Evolutions 3 Perfect Order Elite Trainer Box",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-3-perfect-order-elite-trainer-box"
-   },
-   "54327": {
-    "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
-    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54327/images/300456/Pokemon_TCG_Mega_Zygarde_Ex_Premium_Collection-TM__11478.1773924955.386.513.jpg?c=2",
-    "last_alert": 0,
-    "price": 89.0,
-    "status": "In stock",
-    "title": "Pokemon TCG Mega Zygarde Ex Premium Collection",
-    "url": "https://toymate.com.au/pokemon-tcg-mega-zygarde-ex-premium-collection"
+    "title": "Pokemon TCG Chaos Rising Three Booster Blister",
+    "url": "https://toymate.com.au/pokemon-tcg-chaos-rising-three-booster-blister"
    },
    "54330": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54330/images/300446/Pokemon_TCG_Chaos_Rising_Booster_Bundle_1__60176.1773922035.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 59.99,
@@ -371,7 +101,7 @@
    },
    "54331": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54331/images/300440/Pokemon_TCG_Chaos_Rising_Elite_Trainer_Box_1__73419.1773921678.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 109.0,
@@ -379,9 +109,19 @@
     "title": "Pokemon TCG Chaos Rising Elite Trainer Box",
     "url": "https://toymate.com.au/pokemon-tcg-chaos-rising-elite-trainer-box"
    },
+   "54768": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54768/images/303716/Three-Booster_Blister_-_Front_EN__42385.1777598138.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 29.99,
+    "status": "In stock",
+    "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Three Booster Blister",
+    "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-three-booster-blister"
+   },
    "54769": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54769/images/303705/10-10416-111_Pitch_Black_ETB_1__78757.1777597766.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 109.0,
@@ -391,7 +131,7 @@
    },
    "54770": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54770/images/303722/Pokmon_TCG_Mega_EvolutionPitch_Black_-_Booster_Bundle_EN__85705.1777598279.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 59.99,
@@ -399,9 +139,19 @@
     "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Booster Bundle",
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-booster-bundle"
    },
+   "55859": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55859/images/312073/Pokmon_TCG_-_30th_Celebration_Pokmon_ex_Box_-_Sylveon_ex_EN__59142.1783048324.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 54.99,
+    "status": "In stock",
+    "title": "Pokemon TCG 30th Celebration ex Box",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-ex-box"
+   },
    "55860": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55860/images/312076/Pokmon_TCG_-_30th_Celebration_Knock_Out_Collection_EN__63054.1783048395.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 26.99,
@@ -409,9 +159,29 @@
     "title": "Pokemon TCG 30th Celebration Knock Out Collection",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-knock-out-collection"
    },
+   "55861": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55861/images/312081/Pokmon_TCG_-_30th_Celebration_Poster_Collection_EN__03679.1783048538.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 39.99,
+    "status": "In stock",
+    "title": "Pokemon TCG 30th Celebration Poster Box",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-poster-box"
+   },
+   "55862": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55862/images/312085/Pokmon_TCG_-_30th_Celebration_Tech_Sticker_Collection_-_Alolan_Exeggutor_EN__98693.1783048718.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 39.99,
+    "status": "In stock",
+    "title": "Pokemon TCG 30th Celebration Tech Sticker Blister",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-tech-sticker-blister"
+   },
    "55863": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55863/images/312056/Pokmon_TCG_-_30th_Celebration_Elite_Trainer_Box_EN__28528.1783046477.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 119.0,
@@ -419,9 +189,29 @@
     "title": "Pokemon TCG 30th Celebration Elite Trainer Box",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-elite-trainer-box"
    },
+   "55864": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55864/images/312089/Pokmon_TCG_-_30th_Celebration_Binder_Collection_EN__71300.1783048945.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 69.99,
+    "status": "In stock",
+    "title": "Pokemon TCG 30th Celebration Binder Box",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-binder-box"
+   },
+   "55865": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55865/images/312101/Pokmon_TCG_-_30th_Celebration_Mini_Tins_-_Assorted__74392.1783049072.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 26.99,
+    "status": "In stock",
+    "title": "Pokemon TCG 30th Celebration Mini Tin",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-mini-tin"
+   },
    "55866": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55866/images/312104/Pokmon_TCG_-_30th_Celebration_Booster_Bundle_EN__17269.1783049170.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 69.99,
@@ -429,9 +219,19 @@
     "title": "Pokemon TCG 30th Celebration Booster Bundle",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-booster-bundle"
    },
+   "55867": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55867/images/312110/Pokmon_TCG_-_30th_Celebration_Battle_Deck_-_Espeon_ex_EN__04309.1783049319.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 49.99,
+    "status": "In stock",
+    "title": "Pokémon TCG: 30th Celebration Battle Deck",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-battle-deck"
+   },
    "55868": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55868/images/312116/Pokmon_TCG_-_30th_Celebration_Ditto_Premium_Collection_EN__48369.1783049377.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 99.0,
@@ -441,7 +241,7 @@
    },
    "55869": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55869/images/312061/Pokmon_TCG_-_30th_Celebration_Ultra-Premium_Collection_-_Day_EN__37594.1783047691.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 449.0,
@@ -451,13 +251,23 @@
    },
    "55870": {
     "available": true,
-    "first_seen": "2026-07-06T13:05:47Z",
+    "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55870/images/312122/Pokmon_TCG_-_30th_Celebration_Figure_Collection_-_Mewtwo_EN__45181.1783049784.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 69.99,
     "status": "In stock",
     "title": "Pokemon TCG 30th Celebration Figure Collection Mew /Mewtwo",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-figure-collection-mew-mewtwo"
+   },
+   "55871": {
+    "available": true,
+    "first_seen": "2026-07-06T13:21:48Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55871/images/312129/Pokmon_TCG_-_30th_Celebration_Tin_-_Day_EN__14266.1783049914.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 59.99,
+    "status": "In stock",
+    "title": "Pokemon TCG 30th Celebration 4 Booster Tin",
+    "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-4-booster-tin"
    }
   }
  },

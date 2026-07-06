@@ -27,20 +27,20 @@ stores:
   jbhifi:
     enabled: true
     # Discovery: Shopify suggest API returns ~10 results per phrase; sweep several.
+    # The set-name queries make new listings of watched sets surface instantly.
     queries:
       - pokemon tcg
-      - pokemon booster
       - pokemon elite trainer
-      - pokemon collection
-      - pokemon tin
-      - pokemon trading cards
-    # Tracking filter: only the headline sealed products, not sleeves/singles/tins.
+      - pokemon booster
+      - pokemon 30th
+      - pokemon pitch black
+      - pokemon chaos rising
+    # Tracked sets: every product type belonging to these sets.
     include_any:
-      - elite trainer
-      - booster box
-      - booster bundle
-      - collection
-    exclude_any: []
+      - pitch black
+      - chaos rising
+      - "30th"
+    exclude_any: [ultra pro, portfolio, sleeves, playmat, deck box]
     watch_only: false
     watch: []
 
@@ -50,11 +50,10 @@ stores:
       - pokemon tcg
       - pokemon trading card
     include_any:
-      - elite trainer
-      - booster box
-      - booster bundle
-      - collection
-    exclude_any: []
+      - pitch black
+      - chaos rising
+      - "30th"
+    exclude_any: [ultra pro, portfolio, sleeves, playmat, deck box]
     watch_only: false
     watch: []
 
@@ -62,9 +61,9 @@ stores:
     enabled: true
     # Amazon is watch-only by nature: exactly these ASINs, nothing else.
     # ASIN is in the product URL: amazon.com.au/dp/<ASIN>
+    # (No 30th Celebration listings on Amazon AU yet as of 2026-07-06 —
+    #  add the ASIN here when it appears.)
     asins:
-      B0FH6KRSX8: Pokemon TCG Mega Evolutions 1 Elite Trainer Box
-      B0GFZV1ZVV: Pokemon TCG Mega Evolutions 3 Perfect Order Elite Trainer Box
-      B0GR6N18F6: Pokemon TCG Mega Evolutions 4 Elite Trainer Box
       B0GYVHLP4L: Pokemon TCG Mega Evolutions 5 Pitch Black Elite Trainer Box
-      B0GNCGT9KK: Pokemon Mega Zygarde ex Premium Collection
+      B0GR6N18F6: Pokemon TCG Mega Evolutions 4 Chaos Rising Elite Trainer Box
+      B0GR6M4JV3: Pokemon TCG Mega Evolutions 4 Chaos Rising Three Packs
