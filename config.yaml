@@ -1,0 +1,39 @@
+# AU Pokemon TCG restock tracker — what to poll and when to alert.
+
+alerts:
+  realert_hours: 6        # don't re-alert the same product more often than this
+  alert_new_products: true # alert when a matching product is listed for the first time
+  failure_alert_after: 5  # Discord warning after N consecutive failed runs of a store
+
+stores:
+  jbhifi:
+    enabled: true
+    # Shopify suggest API returns ~10 results per phrase; sweep several.
+    queries:
+      - pokemon tcg
+      - pokemon booster
+      - pokemon elite trainer
+      - pokemon collection
+      - pokemon tin
+      - pokemon trading cards
+    # Optional: exact products to always check, from jbhifi.com.au/products/<handle>
+    watch_handles: []
+
+  toymate:
+    enabled: true
+    queries:
+      - pokemon tcg
+      - pokemon trading card
+    # Optional extra title filter, e.g. [booster, elite trainer, tin]
+    include_any: []
+
+  amazon_au:
+    enabled: true
+    # asin: label (label is the fallback name if the page can't be parsed).
+    # Add new sets here as they're announced — asin is in the product URL: /dp/ASIN
+    asins:
+      B0FH6KRSX8: Pokemon TCG Mega Evolutions 1 Elite Trainer Box
+      B0GFZV1ZVV: Pokemon TCG Mega Evolutions 3 Perfect Order Elite Trainer Box
+      B0GR6N18F6: Pokemon TCG Mega Evolutions 4 Elite Trainer Box
+      B0GYVHLP4L: Pokemon TCG Mega Evolutions 5 Pitch Black Elite Trainer Box
+      B0GNCGT9KK: Pokemon Mega Zygarde ex Premium Collection
