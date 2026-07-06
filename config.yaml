@@ -1,14 +1,32 @@
 # AU Pokemon TCG restock tracker — what to poll and when to alert.
+#
+# ── Choosing what to track (per store) ──────────────────────────────────
+#   include_any: [elite trainer, booster box]
+#       Track only products whose title contains ANY of these (case-insensitive).
+#       Empty list = track everything the store queries find.
+#   exclude_any: [japanese, sleeves]
+#       Always ignore titles containing any of these.
+#   watch_only: true  +  watch: [ ... ]
+#       Strictest mode: track ONLY the entries in `watch`. Entries can be
+#       full product URLs (exact product) or title snippets, e.g.:
+#         watch:
+#           - https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-1-elite-trainer-box
+#           - mega evolutions 5
+#       JB URLs in `watch` are also fetched directly, so they're tracked even
+#       if the search queries wouldn't surface them.
+#   After narrowing filters you can delete state/stock.json to drop the
+#   no-longer-tracked products from state; next run re-seeds cleanly.
+# ────────────────────────────────────────────────────────────────────────
 
 alerts:
-  realert_hours: 6        # don't re-alert the same product more often than this
+  realert_hours: 6         # don't re-alert the same product more often than this
   alert_new_products: true # alert when a matching product is listed for the first time
-  failure_alert_after: 5  # Discord warning after N consecutive failed runs of a store
+  failure_alert_after: 5   # Discord warning after N consecutive failed runs of a store
 
 stores:
   jbhifi:
     enabled: true
-    # Shopify suggest API returns ~10 results per phrase; sweep several.
+    # Discovery: Shopify suggest API returns ~10 results per phrase; sweep several.
     queries:
       - pokemon tcg
       - pokemon booster
@@ -16,21 +34,34 @@ stores:
       - pokemon collection
       - pokemon tin
       - pokemon trading cards
-    # Optional: exact products to always check, from jbhifi.com.au/products/<handle>
-    watch_handles: []
+    # Tracking filter: only the headline sealed products, not sleeves/singles/tins.
+    include_any:
+      - elite trainer
+      - booster box
+      - booster bundle
+      - collection
+    exclude_any: []
+    watch_only: false
+    watch: []
 
   toymate:
     enabled: true
     queries:
       - pokemon tcg
       - pokemon trading card
-    # Optional extra title filter, e.g. [booster, elite trainer, tin]
-    include_any: []
+    include_any:
+      - elite trainer
+      - booster box
+      - booster bundle
+      - collection
+    exclude_any: []
+    watch_only: false
+    watch: []
 
   amazon_au:
     enabled: true
-    # asin: label (label is the fallback name if the page can't be parsed).
-    # Add new sets here as they're announced — asin is in the product URL: /dp/ASIN
+    # Amazon is watch-only by nature: exactly these ASINs, nothing else.
+    # ASIN is in the product URL: amazon.com.au/dp/<ASIN>
     asins:
       B0FH6KRSX8: Pokemon TCG Mega Evolutions 1 Elite Trainer Box
       B0GFZV1ZVV: Pokemon TCG Mega Evolutions 3 Perfect Order Elite Trainer Box

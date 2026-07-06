@@ -37,8 +37,15 @@ def fetch(cfg):
             )
         time.sleep(0.4)
 
-    # Optional exact products to always check (jbhifi.com.au/products/<handle>).
-    for handle in cfg.get("watch_handles") or []:
+    # Watched products given as JB URLs are always fetched directly, so
+    # watching them doesn't depend on the search queries finding them.
+    for entry in cfg.get("watch") or []:
+        e = str(entry)
+        if "/products/" not in e:
+            continue
+        handle = e.split("/products/")[-1].split("?")[0].strip("/ ")
+        if not handle or handle in found:
+            continue
         r = http.get(f"{BASE}/products/{handle}.js")
         if r.status_code == 404:
             continue

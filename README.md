@@ -40,13 +40,21 @@ python -m venv .venv
 Put `DISCORD_WEBHOOK_URL=...` in `.env` (see `.env.example`) to post for real.
 `--store jbhifi` runs a single store. Local and CI runs share state via git.
 
-## Watching new products
+## Choosing what to track
 
-- **New sets on Amazon**: add the ASIN (from the product URL `/dp/ASIN`) to
-  `amazon_au.asins` in [config.yaml](config.yaml).
-- **Specific JB products**: add the handle from `jbhifi.com.au/products/<handle>`
-  to `jbhifi.watch_handles`. Keyword queries usually find everything anyway.
-- Alert tuning (cooldown, new-listing alerts) is at the top of config.yaml.
+All knobs are per store in [config.yaml](config.yaml) (documented at the top):
+
+- `include_any` — keyword filter: only track titles containing any of these
+  (default: elite trainer / booster box / booster bundle / collection).
+- `exclude_any` — always-ignore keywords.
+- `watch_only: true` + `watch:` — strict mode: track *only* listed items, given
+  as product URLs (exact) or title snippets. JB URLs in `watch` are fetched
+  directly, so they're tracked even if search wouldn't surface them.
+- **Amazon** is strict by design: exactly the ASINs in `asins` (from the
+  product URL `/dp/ASIN`).
+- After narrowing filters, delete `state/stock.json` to purge dropped products;
+  the next run re-seeds silently. Alert tuning (cooldown, new-listing alerts)
+  is at the top of config.yaml.
 
 ## How alerting behaves
 

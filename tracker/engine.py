@@ -9,6 +9,50 @@ def _now_iso():
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def _slug(url):
+    return url.rstrip("/").split("?")[0].split("/")[-1].lower()
+
+
+def _matches(p, terms):
+    """A term matches by product-URL slug if it looks like a URL, else by
+    case-insensitive title substring."""
+    tl = p.title.lower()
+    for t in terms or []:
+        t = str(t).strip().lower()
+        if not t:
+            continue
+        if t.startswith("http"):
+            if _slug(p.url.lower()) == _slug(t):
+                return True
+        elif t in tl:
+            return True
+    return False
+
+
+def _apply_filters(products, scfg):
+    """Per-store choice of what to track.
+
+    watch_only: true  -> keep only products matching `watch` (URLs/substrings)
+    include_any       -> otherwise, keep only titles matching any keyword
+    exclude_any       -> always drop matching titles
+    """
+    watch_only = scfg.get("watch_only")
+    watch = scfg.get("watch") or []
+    include_any = scfg.get("include_any") or []
+    exclude_any = scfg.get("exclude_any") or []
+    out = []
+    for p in products:
+        if watch_only:
+            if not _matches(p, watch):
+                continue
+        elif include_any and not _matches(p, include_any):
+            continue
+        if exclude_any and _matches(p, exclude_any):
+            continue
+        out.append(p)
+    return out
+
+
 def run_all(config, state, only_store=None):
     """Poll every enabled store, diff against state, mutate state in place.
 
@@ -52,6 +96,7 @@ def run_all(config, state, only_store=None):
             continue
         meta["consecutive_failures"] = 0
         meta["last_success"] = now_iso
+        products = _apply_filters(products, scfg)
 
         sstate = state.setdefault("stores", {}).setdefault(name, {})
         first_run = not sstate

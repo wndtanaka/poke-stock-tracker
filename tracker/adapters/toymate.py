@@ -17,7 +17,6 @@ MAX_RESULTS = 400
 
 def fetch(cfg):
     found = {}
-    include = [k.lower() for k in cfg.get("include_any") or []]
 
     for q in cfg.get("queries") or ["pokemon tcg"]:
         page = 1
@@ -42,8 +41,6 @@ def fetch(cfg):
                 title = it.get("l") or ""
                 tl = title.lower()
                 if "pokemon" not in tl and "pokémon" not in tl:
-                    continue
-                if include and not any(k in tl for k in include):
                     continue
                 u = it.get("u") or ""
                 found[str(it.get("id"))] = Product(
