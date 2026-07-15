@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-15T22:40:38Z"
+   "last_success": "2026-07-15T23:39:19Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-15T22:40:38Z"
+   "last_success": "2026-07-15T23:39:19Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-15T22:40:38Z"
+   "last_success": "2026-07-15T23:39:19Z"
   }
  },
  "stores": {
@@ -180,12 +180,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-tech-sticker-blister"
    },
    "55863": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55863/images/312056/Pokmon_TCG_-_30th_Celebration_Elite_Trainer_Box_EN__28528.1783046477.386.513.jpg?c=2",
-    "last_alert": 0,
+    "last_alert": 1784158759.873732,
     "price": 119.0,
-    "status": "Delisted/unavailable",
+    "status": "In stock",
     "title": "Pokemon TCG 30th Celebration Elite Trainer Box",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-elite-trainer-box"
    },
@@ -240,12 +240,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-ditto-premium-collection"
    },
    "55869": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55869/images/312061/Pokmon_TCG_-_30th_Celebration_Ultra-Premium_Collection_-_Day_EN__37594.1783047691.386.513.jpg?c=2",
-    "last_alert": 0,
+    "last_alert": 1784158759.873732,
     "price": 449.0,
-    "status": "Delisted/unavailable",
+    "status": "In stock",
     "title": "Pokemon TCG 30th Celebration Ultra-Premium Day/Night Collection",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-ultra-premium-day-night-collection"
    },
