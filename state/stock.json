@@ -1,16 +1,16 @@
 {
  "meta": {
   "amazon_au": {
-   "consecutive_failures": 131,
+   "consecutive_failures": 132,
    "last_success": "2026-07-06T13:21:48Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-15T14:59:01Z"
+   "last_success": "2026-07-15T16:13:18Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-15T14:59:01Z"
+   "last_success": "2026-07-15T16:13:18Z"
   }
  },
  "stores": {
@@ -240,12 +240,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-ditto-premium-collection"
    },
    "55869": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55869/images/312061/Pokmon_TCG_-_30th_Celebration_Ultra-Premium_Collection_-_Day_EN__37594.1783047691.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 449.0,
-    "status": "In stock",
+    "status": "Delisted/unavailable",
     "title": "Pokemon TCG 30th Celebration Ultra-Premium Day/Night Collection",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-ultra-premium-day-night-collection"
    },
