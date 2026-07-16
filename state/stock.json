@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-16T18:55:01Z"
+   "last_success": "2026-07-16T19:56:10Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-16T18:55:01Z"
+   "last_success": "2026-07-16T19:56:10Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-16T18:55:01Z"
+   "last_success": "2026-07-16T19:56:10Z"
   }
  },
  "stores": {
@@ -130,12 +130,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-three-booster-blister"
    },
    "54769": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54769/images/303705/10-10416-111_Pitch_Black_ETB_1__78757.1777597766.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 109.0,
-    "status": "In stock",
+    "status": "Out of stock",
     "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Elite Trainer Box",
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-elite-trainer-box"
    },
