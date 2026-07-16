@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-16T17:44:16Z"
+   "last_success": "2026-07-16T18:55:01Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-16T17:44:16Z"
+   "last_success": "2026-07-16T18:55:01Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-16T17:44:16Z"
+   "last_success": "2026-07-16T18:55:01Z"
   }
  },
  "stores": {
@@ -109,13 +109,23 @@
     "title": "Pokemon TCG Chaos Rising Elite Trainer Box",
     "url": "https://toymate.com.au/pokemon-tcg-chaos-rising-elite-trainer-box"
    },
+   "54767": {
+    "available": false,
+    "first_seen": "2026-07-16T18:55:01Z",
+    "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54767/images/303711/Pokmon_TCG_Mega_EvolutionPitch_Black_-_Booster_Wrap_-_Mega_Darkrai_EN__81037.1777598057.386.513.jpg?c=2",
+    "last_alert": 0,
+    "price": 8.99,
+    "status": "Out of stock",
+    "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Blisters",
+    "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-blisters"
+   },
    "54768": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54768/images/303716/Three-Booster_Blister_-_Front_EN__42385.1777598138.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 29.99,
-    "status": "In stock",
+    "status": "Out of stock",
     "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Three Booster Blister",
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-three-booster-blister"
    },
@@ -130,12 +140,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-elite-trainer-box"
    },
    "54770": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54770/images/303722/Pokmon_TCG_Mega_EvolutionPitch_Black_-_Booster_Bundle_EN__85705.1777598279.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 59.99,
-    "status": "In stock",
+    "status": "Out of stock",
     "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Booster Bundle",
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-booster-bundle"
    },
