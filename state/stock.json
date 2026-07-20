@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-20T12:34:46Z"
+   "last_success": "2026-07-20T14:51:31Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-20T12:34:46Z"
+   "last_success": "2026-07-20T14:51:31Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-20T12:34:46Z"
+   "last_success": "2026-07-20T14:51:31Z"
   }
  },
  "stores": {
@@ -26,13 +26,13 @@
     "url": "https://www.amazon.com.au/dp/B0GR6M4JV3"
    },
    "B0GR6N18F6": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": null,
-    "last_alert": 1784245070.0863755,
-    "price": null,
-    "status": "Out of stock",
-    "title": "Pokemon TCG Mega Evolutions 4 Chaos Rising Elite Trainer Box",
+    "last_alert": 1784559091.6322112,
+    "price": 159.0,
+    "status": "In stock",
+    "title": "Pokemon TCG Mega Evolutions 4 Elite Trainer Box",
     "url": "https://www.amazon.com.au/dp/B0GR6N18F6"
    },
    "B0GYVHLP4L": {
