@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-21T00:08:19Z"
+   "last_success": "2026-07-21T03:39:23Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-21T00:08:19Z"
+   "last_success": "2026-07-21T03:39:23Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-21T00:08:19Z"
+   "last_success": "2026-07-21T03:39:23Z"
   }
  },
  "stores": {
@@ -48,12 +48,12 @@
   },
   "jbhifi": {
    "pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880684-Product-0-I-639095570402673209.jpg?v=1773960306",
     "last_alert": 0,
     "price": 11.0,
-    "status": "In stock",
+    "status": "Delisted/unavailable",
     "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Checklane Blister",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game"
    },
