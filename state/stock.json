@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-21T15:59:22Z"
+   "last_success": "2026-07-21T16:15:03Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-21T15:59:22Z"
+   "last_success": "2026-07-21T16:15:03Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-21T15:59:22Z"
+   "last_success": "2026-07-21T16:15:03Z"
   }
  },
  "stores": {
@@ -70,12 +70,12 @@
   },
   "toymate": {
    "54328": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54328/images/300455/Pokemon_TCG_Chaos_Rising_Blister_1__05408.1773923815.386.513.jpg?c=2",
     "last_alert": 0,
     "price": 8.99,
-    "status": "In stock",
+    "status": "Delisted/unavailable",
     "title": "Pokemon TCG Chaos Rising Blister",
     "url": "https://toymate.com.au/pokemon-tcg-chaos-rising-blister"
    },
