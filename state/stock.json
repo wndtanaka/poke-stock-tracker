@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-23T00:11:59Z"
+   "last_success": "2026-07-23T03:43:43Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-23T00:11:59Z"
+   "last_success": "2026-07-23T03:43:43Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-23T00:11:59Z"
+   "last_success": "2026-07-23T03:43:43Z"
   }
  },
  "stores": {
@@ -48,12 +48,12 @@
   },
   "jbhifi": {
    "pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-card-game": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-23T00:11:59Z",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/896929-Product-0-I-639131905205620750.jpg?v=1777593786",
     "last_alert": 1784765519.563616,
     "price": 100.0,
-    "status": "In stock",
+    "status": "Delisted/unavailable",
     "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-card-game"
    },
