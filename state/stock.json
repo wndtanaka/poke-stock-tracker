@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-24T01:04:17Z"
+   "last_success": "2026-07-24T04:24:34Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-24T01:04:17Z"
+   "last_success": "2026-07-24T04:24:34Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-24T01:04:17Z"
+   "last_success": "2026-07-24T04:24:34Z"
   }
  },
  "stores": {
@@ -56,6 +56,26 @@
     "status": "Delisted/unavailable",
     "title": "Pokemon TCG: Mega Evolution - Pitch Black Elite Trainer Box",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolution-pitch-black-elite-trainer-box-card-game"
+   },
+   "pokemon-tcg-mega-evolution-pitch-black-three-booster-blister-card-game": {
+    "available": true,
+    "first_seen": "2026-07-24T04:24:34Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/896928-Product-0-I-639131905204283523.jpg?v=1777593785",
+    "last_alert": 1784867074.657755,
+    "price": 26.0,
+    "status": "In stock",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black Three-Booster Blister",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolution-pitch-black-three-booster-blister-card-game"
+   },
+   "pokemon-tcg-mega-evolutions-4-chaos-rising-booster-pack-card-game": {
+    "available": true,
+    "first_seen": "2026-07-24T04:24:34Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880621-Product-0-I-639095569201594242.jpg?v=1773960249",
+    "last_alert": 1784867074.657755,
+    "price": 8.5,
+    "status": "In stock",
+    "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Booster Pack",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster-pack-card-game"
    },
    "pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game": {
     "available": false,
