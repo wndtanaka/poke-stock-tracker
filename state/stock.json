@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-28T17:52:05Z"
+   "last_success": "2026-07-28T19:05:57Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-28T17:52:05Z"
+   "last_success": "2026-07-28T19:05:57Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-07-28T17:52:05Z"
+   "last_success": "2026-07-28T19:05:57Z"
   }
  },
  "stores": {
@@ -160,12 +160,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-chaos-rising-elite-trainer-box"
    },
    "54767": {
-    "available": true,
+    "available": false,
     "first_seen": "2026-07-16T18:55:01Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/54767/images/315539/image-Photoroom__28556.1785218259.386.513.png?c=2",
     "last_alert": 1784245070.0863755,
     "price": 8.99,
-    "status": "In stock",
+    "status": "Out of stock",
     "title": "Pokemon TCG Mega Evolutions 5 Pitch Black Sleeved Booster",
     "url": "https://toymate.com.au/pokemon-tcg-mega-evolutions-5-pitch-black-sleeved-booster"
    },
