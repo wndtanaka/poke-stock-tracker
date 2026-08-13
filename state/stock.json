@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-13T07:59:10Z"
+   "last_success": "2026-08-13T09:14:54Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-13T07:59:10Z"
+   "last_success": "2026-08-13T09:14:54Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-08-13T07:59:10Z"
+   "last_success": "2026-08-13T09:14:54Z"
   }
  },
  "stores": {
@@ -230,12 +230,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-poster-box"
    },
    "55862": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55862/images/312085/Pokmon_TCG_-_30th_Celebration_Tech_Sticker_Collection_-_Alolan_Exeggutor_EN__98693.1783048718.386.513.jpg?c=2",
-    "last_alert": 0,
+    "last_alert": 1786612494.5374684,
     "price": 39.99,
-    "status": "Out of stock",
+    "status": "In stock",
     "title": "Pokemon TCG 30th Celebration Tech Sticker Blister",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-tech-sticker-blister"
    },
@@ -260,12 +260,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-binder-box"
    },
    "55865": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55865/images/312101/Pokmon_TCG_-_30th_Celebration_Mini_Tins_-_Assorted__74392.1783049072.386.513.jpg?c=2",
-    "last_alert": 0,
+    "last_alert": 1786612494.5374684,
     "price": 26.99,
-    "status": "Out of stock",
+    "status": "In stock",
     "title": "Pokemon TCG 30th Celebration Mini Tin",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-mini-tin"
    },
@@ -310,12 +310,12 @@
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-ultra-premium-day-night-collection"
    },
    "55870": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn11.bigcommerce.com/s-cf7jv97qb3/products/55870/images/312122/Pokmon_TCG_-_30th_Celebration_Figure_Collection_-_Mewtwo_EN__45181.1783049784.386.513.jpg?c=2",
-    "last_alert": 0,
+    "last_alert": 1786612494.5374684,
     "price": 69.99,
-    "status": "Out of stock",
+    "status": "In stock",
     "title": "Pokemon TCG 30th Celebration Figure Collection Mew /Mewtwo",
     "url": "https://toymate.com.au/pokemon-tcg-30th-celebration-figure-collection-mew-mewtwo"
    },
