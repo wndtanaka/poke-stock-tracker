@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-06T01:07:06Z"
+   "last_success": "2026-09-06T05:52:20Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-06T01:07:06Z"
+   "last_success": "2026-09-06T05:52:20Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-06T01:07:06Z"
+   "last_success": "2026-09-06T05:52:20Z"
   }
  },
  "stores": {
@@ -22,7 +22,7 @@
     "last_alert": 1787666645.184664,
     "price": null,
     "status": "Out of stock",
-    "title": "Pokemon TCG Mega Evolutions 4 Three Packs",
+    "title": "Pokemon TCG Mega Evolutions 4 Chaos Rising Three Packs",
     "url": "https://www.amazon.com.au/dp/B0GR6M4JV3"
    },
    "B0GR6N18F6": {
