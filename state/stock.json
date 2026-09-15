@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-15T00:59:56Z"
+   "last_success": "2026-09-15T05:58:13Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-15T00:59:56Z"
+   "last_success": "2026-09-15T05:58:13Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-15T00:59:56Z"
+   "last_success": "2026-09-15T05:58:13Z"
   }
  },
  "stores": {
@@ -118,12 +118,12 @@
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-three-booster-blister-card-game"
    },
    "pokemon-tcg-pitch-black-display-box-card-game": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-23T00:11:59Z",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/896927-Product-0-I-639131920204737253.jpg?v=1777595285",
-    "last_alert": 1784765519.563616,
+    "last_alert": 1789451893.9894288,
     "price": 306.0,
-    "status": "Delisted/unavailable",
+    "status": "In stock",
     "title": "Pokemon TCG: Pitch Black Display Box",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-pitch-black-display-box-card-game"
    }
