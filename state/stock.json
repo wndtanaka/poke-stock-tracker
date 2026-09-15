@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-15T05:58:13Z"
+   "last_success": "2026-09-15T11:13:15Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-15T05:58:13Z"
+   "last_success": "2026-09-15T11:13:15Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-09-15T05:58:13Z"
+   "last_success": "2026-09-15T11:13:15Z"
   }
  },
  "stores": {
@@ -47,6 +47,66 @@
    }
   },
   "jbhifi": {
+   "pokemon-tcg-30th-celebration-5-booster-tin-assorted-styles-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/900819-Product-0-I-639185655603508373.jpg?v=1782968825",
+    "last_alert": 1789470795.5044632,
+    "price": 54.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - 30th Celebration: 5 Booster Tin (Assorted Styles)",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-5-booster-tin-assorted-styles-card-game"
+   },
+   "pokemon-tcg-30th-celebration-ditto-premium-collection-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/900816-Product-0-I-639185470203420680.jpg?v=1782950285",
+    "last_alert": 1789470795.5044632,
+    "price": 80.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - 30th Celebration: Ditto Premium Collection",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-ditto-premium-collection-card-game"
+   },
+   "pokemon-tcg-30th-celebration-figure-collection-mew-mewtwo-assorted-styles-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/900818-Product-0-I-639185473202638790.jpg?v=1782950585",
+    "last_alert": 1789470795.5044632,
+    "price": 60.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - 30th Celebration: Figure Collection Mew/Mewtwo (Assorted Styles)",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-figure-collection-mew-mewtwo-assorted-styles-card-game"
+   },
+   "pokemon-tcg-30th-celebration-knock-out-collection-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/900804-Product-0-I-639185453405659489.jpg?v=1782948608",
+    "last_alert": 1789470795.5044632,
+    "price": 20.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - 30th Celebration: Knock Out Collection",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-knock-out-collection-card-game"
+   },
+   "pokemon-tcg-30th-celebration-sticker-blister-assorted-styles-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/900806-Product-0-I-639185454003069625.jpg?v=1782948665",
+    "last_alert": 1789470795.5044632,
+    "price": 30.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - 30th Celebration: Sticker Blister (Assorted Styles)",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-30th-celebration-sticker-blister-assorted-styles-card-game"
+   },
+   "pokemon-tcg-mega-evolution-pitch-black-6x-booster-packs-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/900825-Product-0-I-639195922805862765.jpg?v=1783995545",
+    "last_alert": 1789470795.5044632,
+    "price": 50.0,
+    "status": "In stock",
+    "title": "Pokemon TCG: Mega Evolution - Pitch Black 6x Booster Packs",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolution-pitch-black-6x-booster-packs-card-game"
+   },
    "pokemon-tcg-mega-evolution-pitch-black-booster-card-game": {
     "available": true,
     "first_seen": "2026-09-10T00:08:58Z",
@@ -77,6 +137,16 @@
     "title": "Pokemon TCG: Mega Evolution - Pitch Black Three-Booster Blister",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolution-pitch-black-three-booster-blister-card-game"
    },
+   "pokemon-tcg-mega-evolutions-4-chaos-rising-booster-bundle-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880668-Product-0-I-639095566203521349.jpg?v=1773959886",
+    "last_alert": 1789470795.5044632,
+    "price": 50.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Booster Bundle",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster-bundle-card-game"
+   },
    "pokemon-tcg-mega-evolutions-4-chaos-rising-booster-pack-card-game": {
     "available": true,
     "first_seen": "2026-07-24T04:24:34Z",
@@ -88,12 +158,12 @@
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-booster-pack-card-game"
    },
    "pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880684-Product-0-I-639095570402673209.jpg?v=1773960306",
-    "last_alert": 0,
+    "last_alert": 1789470795.5044632,
     "price": 11.0,
-    "status": "Delisted/unavailable",
+    "status": "In stock",
     "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Checklane Blister",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-checklane-blister-card-game"
    },
@@ -107,13 +177,23 @@
     "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Display Box",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-display-box-card-game"
    },
+   "pokemon-tcg-mega-evolutions-4-chaos-rising-elite-trainer-box-card-game": {
+    "available": true,
+    "first_seen": "2026-09-15T11:13:15Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880667-Product-0-I-639095568602694248.jpg?v=1773960125",
+    "last_alert": 1789470795.5044632,
+    "price": 100.0,
+    "status": "In stock",
+    "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Elite Trainer Box",
+    "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-elite-trainer-box-card-game"
+   },
    "pokemon-tcg-mega-evolutions-4-chaos-rising-three-booster-blister-card-game": {
-    "available": false,
+    "available": true,
     "first_seen": "2026-07-06T13:21:48Z",
     "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/880624-Product-0-I-639095567402050523.jpg?v=1773960004",
-    "last_alert": 0,
+    "last_alert": 1789470795.5044632,
     "price": 26.0,
-    "status": "Out of stock",
+    "status": "In stock",
     "title": "Pokemon TCG - Mega Evolutions 4: Chaos Rising Three-Booster Blister",
     "url": "https://www.jbhifi.com.au/products/pokemon-tcg-mega-evolutions-4-chaos-rising-three-booster-blister-card-game"
    },
