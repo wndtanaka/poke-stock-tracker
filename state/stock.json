@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-10-21T05:55:30Z"
+   "last_success": "2026-10-21T10:56:14Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-10-21T05:55:30Z"
+   "last_success": "2026-10-21T10:56:14Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-10-21T05:55:30Z"
+   "last_success": "2026-10-21T10:56:14Z"
   }
  },
  "stores": {
