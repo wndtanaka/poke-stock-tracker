@@ -2,15 +2,15 @@
  "meta": {
   "amazon_au": {
    "consecutive_failures": 0,
-   "last_success": "2026-11-06T07:21:28Z"
+   "last_success": "2026-11-06T15:11:32Z"
   },
   "jbhifi": {
    "consecutive_failures": 0,
-   "last_success": "2026-11-06T07:21:28Z"
+   "last_success": "2026-11-06T15:11:32Z"
   },
   "toymate": {
    "consecutive_failures": 0,
-   "last_success": "2026-11-06T07:21:28Z"
+   "last_success": "2026-11-06T15:11:32Z"
   }
  },
  "stores": {
@@ -47,6 +47,16 @@
    }
   },
   "jbhifi": {
+   "chinese-pokemon-pokemon-s-chinese-30th-anniversary-celebration-first-partner-box-vol-2-special-art-holo-card-set": {
+    "available": true,
+    "first_seen": "2026-11-06T15:11:32Z",
+    "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/7944a9105c8e4a1bb16e022bda8785e4.jpg?v=1793955680",
+    "last_alert": 1793977892.6631548,
+    "price": 27.7,
+    "status": "In stock",
+    "title": "Chinese Pokemon Pokemon S-Chinese 30th Anniversary Celebration First Partner Box Vol. 2 Special Art Holo Card Set",
+    "url": "https://www.jbhifi.com.au/products/chinese-pokemon-pokemon-s-chinese-30th-anniversary-celebration-first-partner-box-vol-2-special-art-holo-card-set"
+   },
    "pokemon-tcg-30th-celebration-5-booster-tin-assorted-styles-card-game": {
     "available": false,
     "first_seen": "2026-09-15T11:13:15Z",
